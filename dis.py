@@ -4,3 +4,6 @@ class Dispatcher:
         pass
     def run(self):
         pass
+
+    def defaultfn(self):
+        print("Unknown Command")
